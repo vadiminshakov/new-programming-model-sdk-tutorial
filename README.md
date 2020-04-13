@@ -1,4 +1,4 @@
-Демо-репозиторий для статьи 
+Демо-репозиторий для статьи https://habr.com/ru/post/496872/
 
 #### Предварительные действия
 Убедитесь, что у вас есть бинарники configtxgen и cryptogen (и путь к ним добавлен в переменную окружения PATH), иначе смотрите инструкции: https://hyperledger-fabric.readthedocs.io/en/release-1.4/install.html 
